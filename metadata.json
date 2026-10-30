@@ -1,0 +1,6 @@
+{
+  "name": "FRAMEORA - Photography & Cinematography Studio",
+  "description": "Premium photography, videography, and cinematography business management platform and customer booking application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
